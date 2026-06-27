@@ -1,0 +1,13 @@
+{
+    "autodeskProduct": "Fusion",
+    "type": "addin",
+    "id": "ToggleWorkspace",
+    "author": "MahlerWorks LLC",
+    "description": {
+        "": "One-click toggle between Design and Manufacture workspaces. This add-in appears in Utilities > Add-Ins as \"Toggle Workspace\". By MahlerWorks."
+    },
+    "version": "1.0.0",
+    "runOnStartup": true,
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}
