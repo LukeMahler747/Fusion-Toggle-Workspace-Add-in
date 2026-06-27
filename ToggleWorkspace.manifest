@@ -3,11 +3,13 @@
     "type": "addin",
     "id": "ToggleWorkspace",
     "author": "MahlerWorks LLC",
+    "company": "MahlerWorks LLC",
     "description": {
         "": "One-click toggle between Design and Manufacture workspaces. This add-in appears in Utilities > Add-Ins as \"Toggle Workspace\". By MahlerWorks."
     },
     "version": "1.0.0",
     "runOnStartup": true,
     "supportedOS": "windows|mac",
-    "editEnabled": true
+    "editEnabled": true,
+    "lastUpdated": "2026-06-26T00:00:00"
 }
